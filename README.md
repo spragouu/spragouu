@@ -10,17 +10,17 @@ I'm a full-time developer working with the Microsoft tech stack — mostly:
 - ⚙️ Blazor (WebAssembly), C# APIs, and SQL Server
 - 🧪 Azure DevOps (Boards, Pipelines, Git Repos)
 - 💡 Researching and implementing new technologies
-- 🐧 Linux system administration (backup/first-responder duties)
+- 🐧 Linux system administration (backup/first-responder duties for SiriusXM Canada)
 
 My day-to-day has me focused on front-end development, but I frequently work across the full stack — with a small, collaborative team.
 
 ---
 
-### 🔍 Currently Exploring
-- 🤖 Integrating generative AI into business workflows
-- 🧠 Learning about MCP and agentic AI
-- 🔄 CRUD operations against 3rd-party APIs using OpenAPI
-- 🔐 Expanding my skills in DevOps, security, and AI
+### 🕑 Recent Activity
+- 🤖 AI agents and practical use cases (R&D)
+- 🔔 Building a notification system
+- 🔄 CRUD operations against 3rd-party data sources using OpenAPI
+- 🚀 Expanding my skills with GitHub Actions
 
 ---
 
