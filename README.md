@@ -17,9 +17,9 @@ My day-to-day has me focused on front-end development, but I frequently work acr
 ---
 
 ### 🕑 Recent Activity
-- Building and implementing AI Agents
-- Improving localized translation functionality
-- Implementing functionality for Azure Functions, Runbooks, and Event hubs
+- Optimizing Blazor (WASM) component state and events
+- Learning how to improve UI rendering performance and experience
+- Working with Azure's new AI Foundry
 
 ---
 
